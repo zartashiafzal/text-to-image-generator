@@ -1,4 +1,3 @@
-
 # Text to Image generator using Hugging face, Ngrok and streamlit in Google Colab
 
 This repository contains a Streamlit web application that generates images from text prompts using a pre-trained model from Hugging Face. The application is designed to be run in Google Colab with an Ngrok tunnel for web access.
@@ -10,6 +9,9 @@ This repository contains a Streamlit web application that generates images from 
 - **Google Colab Support**: Instructions for setting up and running the app in Google Colab.
 - **Ngrok Integration**: Step-by-step guide to setting up Ngrok for accessing the app over the internet.
 
+![1723827209310](image/README/1723827209310.png)
+[Learn more about ngrok usage and limitation]()
+
 ## Prerequisites
 
 Before you begin, ensure you have the following:
@@ -17,13 +19,11 @@ Before you begin, ensure you have the following:
 - A Google account for Google Colab.
 - An Ngrok account and an authtoken.
 
-
 ## Usage
 
 * **Start the Streamlit app** in Google Colab using the provided command.
 * **Open the Ngrok link** provided in the Colab output to access the web interface.
 * **Enter a text prompt** in the Streamlit interface and **click generate** to create an image.
-
 
 ## License
 
@@ -34,5 +34,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Presenter: [Zartashia Afzal](https://www.linkedin.com/in/zartashiaafzal/)
 
 [Beginner friendly Article guide for this notebook](https://www.linkedin.com/pulse/build-your-ai-image-generator-streamlit-colab-hugging-zartashia-afzal-xiaqf/?trackingId=SzDbsraiQxaUd1QnY6vlnA%3D%3D)
-
-
