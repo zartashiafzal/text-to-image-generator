@@ -10,7 +10,7 @@ This repository contains a Streamlit web application that generates images from 
 - **Ngrok Integration**: Step-by-step guide to setting up Ngrok for accessing the app over the internet.
 
 ![1723827209310](image/README/1723827209310.png)
-[Learn more about ngrok usage and limitation]()
+[Learn more about ngrok usage and limitation](https://www.infoq.com/news/2023/08/ngrok-free-static-domain/)
 
 ## Prerequisites
 
